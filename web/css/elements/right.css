@@ -1,0 +1,34 @@
+.right {
+  z-index: 10;
+  background: url(../img/main/bg-right.png) no-repeat center center;
+  background-size: cover;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  position: absolute;
+  /*height: 101.5%;*/
+  padding: 0;
+  margin: 0;
+  padding-top: 2rem;
+}
+.right .right-link {
+  float: left;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.right .right-link .right-link__item {
+  float: left;
+  padding: .84rem;
+  background: linear-gradient(to right, #7e786a, #fef3e1);
+  z-index: 1;
+  opacity: .9;
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+}
+.right .right-link .right-link__item.link-item__login {
+  padding: .8rem .9rem;
+}
+.right .right-link .right-link__item.link-item__login img {
+  width: 2.2rem;
+}
+/*# sourceMappingURL=right.css.map */

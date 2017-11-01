@@ -1,0 +1,1 @@
+# artdecory initgit add README.mdgit commit -m first commitgit remote add origin https://github.com/aramkettsyan/artdecory.gitgit push -u origin master
